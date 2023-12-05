@@ -19,8 +19,7 @@ Files in which you will enter your exploit strings. The command
 
 make handin
 
-will create a tar file to be submitted via ICON. The tar file will
-contiain these files, ctarget, rtarget, and cookie.txt
+The tar file will contiain these files, ctarget, rtarget, and cookie.txt
 
      cookie.txt
 
